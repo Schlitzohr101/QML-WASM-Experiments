@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file alias="brooke.jpg">resources/BrookeEgger.jpg</file>
+        <file alias="chad.jpg">resources/chadYork.jpg</file>
+        <file alias="dino.jpg">resources/dinoCarter.jpeg</file>
+    </qresource>
+</RCC>

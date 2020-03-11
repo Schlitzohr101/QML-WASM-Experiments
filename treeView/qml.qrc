@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>tools/HostList.qml</file>
+        <file>tools/NestedList.qml</file>
+        <file>tools/ItemBox.qml</file>
+    </qresource>
+</RCC>
